@@ -262,7 +262,7 @@ footer {
     }
     
     .skills-container {
-        grid-template-columns: 1fr;
+        flex-direction: column;
     }
     
     .nav-links {
